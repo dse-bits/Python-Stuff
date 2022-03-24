@@ -1,1 +1,7 @@
-# Python-Stuff
+## Python-Stuff
+
+
+- Tkinter
+- Server
+- Py List Database
+- ...
